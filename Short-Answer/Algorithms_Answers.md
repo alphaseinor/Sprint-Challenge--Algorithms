@@ -49,5 +49,5 @@ once the midpoint hits 1 (ceiling) you know you have run out of floors, and if t
 
 runtime complexity would be o(log 2n)
 
-This begs to question, if we use our brains, there is no way an egg survives a fall from a tabletop, so we could just start at floor 0 and know it always breaks :) 
+This begs to question, if we use our brains, there is no way an egg survives a fall from a tabletop, so we could just start at floor 1 and know it always breaks :) where floor 0 it is already on the ground so it succeeds
 so o(n) linear time :) 
